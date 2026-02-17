@@ -1,0 +1,7 @@
+.git
+.dockerignore
+Dockerfile
+docker-compose.yml
+README.md
+LICENSE
+Installation-procedure.txt
